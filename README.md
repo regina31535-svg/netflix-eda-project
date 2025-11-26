@@ -16,10 +16,9 @@ This project performs comprehensive exploratory data analysis (EDA) on Netflix's
 ```bash
 pip install -r requirements.txt
 Run Analysis
-```bash
+bash
 jupyter notebook notebooks/netflix_eda.ipynb
  Project Structure
-text
 netflix-eda-project/
 ├── data/               # Netflix dataset
 ├── notebooks/          # Jupyter notebooks with EDA
@@ -30,13 +29,9 @@ netflix-eda-project/
 └── README.md         # Project documentation
  Key Analyses
 Content distribution (Movies vs TV Shows)
-
 Temporal trends and growth patterns
-
 Genre popularity analysis
-
 Production countries insights
-
 Rating distributions
 
  Technologies Used
@@ -47,4 +42,5 @@ Pandas, NumPy
 Matplotlib, Seaborn
 
 Jupyter Notebook
+
 
