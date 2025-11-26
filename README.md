@@ -16,7 +16,7 @@ This project performs comprehensive exploratory data analysis (EDA) on Netflix's
 ```bash
 pip install -r requirements.txt
 Run Analysis
-bash
+```bash
 jupyter notebook notebooks/netflix_eda.ipynb
  Project Structure
 text
@@ -47,3 +47,4 @@ Pandas, NumPy
 Matplotlib, Seaborn
 
 Jupyter Notebook
+
