@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Analysis - EDA Project
+#  Netflix Data Analysis - EDA Project
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-orange)
@@ -7,7 +7,7 @@
 
 Exploratory Data Analysis of Netflix Movies and TV Shows catalog. Comprehensive analysis of content trends, distributions, and patterns.
 
-## 📊 Project Overview
+##  Project Overview
 
 This project performs in-depth Exploratory Data Analysis (EDA) on Netflix's content catalog to uncover insights about:
 - Content distribution between Movies and TV Shows
@@ -16,7 +16,7 @@ This project performs in-depth Exploratory Data Analysis (EDA) on Netflix's cont
 - Production countries analysis
 - Rating distributions
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -36,6 +36,7 @@ jupyter notebook
 
 # Open and run: notebooks/netflix_eda.ipynb
 
+### Project Structure
 netflix-eda-project/
 ├── data/               # Netflix dataset
 ├── notebooks/          # Jupyter notebooks with EDA
