@@ -35,6 +35,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 # Open and run: notebooks/netflix_eda.ipynb
+```
 
 ### Project Structure
 netflix-eda-project/
@@ -46,7 +47,7 @@ netflix-eda-project/
 ├── requirements.txt   # Python dependencies
 └── README.md         # Project documentation
 
-Technologies Used
+### Technologies Used
 Python 3.8+ - Core programming language
 
 Pandas - Data manipulation and analysis
@@ -59,7 +60,7 @@ Plotly - Interactive visualizations
 
 WordCloud - Text analysis visualization
 
-Dataset
+### Dataset
 Source: [Netflix Movies and TV Shows on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 Records: 8,807 movies and TV shows
@@ -67,5 +68,4 @@ Records: 8,807 movies and TV shows
 Period: Data up to April 2021
 
 Attributes: 12 attributes including type, title, director, cast, country, release year, rating, duration, and genres
-
 
